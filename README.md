@@ -58,8 +58,7 @@ To grow into a SOC Analyst or GRC Analyst role while continuously strengthening 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seye-Oyewande&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seye-Oyewande&show_icons=true&theme=default)
 ---
 
 ### ✨ Fun Facts
